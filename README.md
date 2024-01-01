@@ -1,6 +1,6 @@
 # Dockerized dog name registry
 
-This a DOCKERIZED application is a Node.js web server connected to DynamoDB for CRUD operations in the storage of dog names
+This DOCKERIZED application is a Node.js web server connected to DynamoDB for CRUD operations in the storage of dog names
 
 Note: To run this application you must have a DDB table with name "dogNames", set up a .env with the below values and run `run docker-compose build` && `docker-compose up`:
 
